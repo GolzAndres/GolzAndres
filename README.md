@@ -4,9 +4,9 @@
 
 .🤖 Estoy aprendiendo sobre programacion para realizar todo lo que tengo en mente para mi futuro.
 
-.👥 Tengo 16 años y estoy estudiando 
+.👥 Tengo 16 años y estoy estudiando. 
 
-.🤓 Todo lo que hago le meto empeño
+.🤓 Todo lo que hago le meto empeño.
 
 <!---
 GolzAndres/GolzAndres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
